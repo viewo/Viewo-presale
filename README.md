@@ -4,8 +4,8 @@ To use:
 
 Call initialize with following params :-
 
-    -startTime in unix format <br/>
-    -endTime in unix format<br/>
-    -cap in wei format<br/>
-    -minimumContribution in wei format<br/>
-    -vault (eth address where funds will be collected)<br/>
+    -startTime in unix format
+    -endTime in unix format
+    -cap in wei format
+    -minimumContribution in wei format
+    -vault (eth address where funds will be collected)
