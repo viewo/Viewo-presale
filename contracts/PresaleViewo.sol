@@ -130,7 +130,7 @@ contract PresaleViewo is Claimable {
         buy();
     }
     
-    function Presale() public {}
+    function presale() public {}
     
     function initialize(uint256 _startTime, uint256 _endTime, uint256 _cap, uint256 _minimumContribution, address _vault) public onlyOwner {
         require(!isInitialized);
