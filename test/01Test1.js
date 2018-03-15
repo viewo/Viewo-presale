@@ -1,3 +1,11 @@
+//sudo npm install truffle
+//sudo npm install ethereumjs-testrpc
+
+//nvm use 8
+//sudo npm i chai-as-promised
+//sudo npm install chai-bignumber
+//sudo npm install moment-datetime
+
 const PresaleViewo = artifacts.require("PresaleViewoMock.sol");
 const BigNumber = web3.BigNumber;
 require('chai')
